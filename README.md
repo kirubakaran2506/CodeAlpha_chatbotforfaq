@@ -68,4 +68,3 @@ python shopbot.py
 ---
 ## sample output screen
 <img width="1304" height="728" alt="Untitled" src="https://github.com/user-attachments/assets/f970bf2d-761c-434f-ab7e-e32fb7aaf460" />
-
